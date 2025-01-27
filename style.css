@@ -8,7 +8,7 @@ body {
   justify-content: center;
   height: 100vh;
   margin: 0;
-  background: radial-gradient(circle, #1a1a1a, #121212);
+  background-color: rgb(44, 42, 42);
   color: white;
   text-align: center;
 }
